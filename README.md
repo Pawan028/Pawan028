@@ -67,9 +67,3 @@ I specialize in architecting end-to-end systems that power high-performance inte
   - **The Solution:** Architected a robust MERN-stack marketplace featuring an embedded AI chatbot to handle support queries proactively, seamlessly integrated with a custom internal delivery logistics framework.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan028&layout=donut&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
