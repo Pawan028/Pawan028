@@ -36,22 +36,6 @@ I specialize in architecting end-to-end systems that power high-performance inte
 
 ---
 
-### 🌟 Featured Personal Projects
-
-- **[SmartHireGenAI](https://github.com/Pawan028/SmartHireGenAI)** 
-  - **The Problem:** Modern Applicant Tracking Systems (ATS) ruthlessly filter talented candidates without providing actionable feedback.
-  - **The Solution:** Built an intelligent recruitment wrapper leveraging GenAI (Google Gemini) that instantly evaluates resumes against job descriptions, suggesting critical improvements to map directly to employer needs.
-  
-- **[AncyChatBot](https://github.com/Pawan028/AncyChatBot)** 
-  - **The Problem:** Generic AI chatbots lose context and hallucinate heavily when acting as niche travel guides.
-  - **The Solution:** Developed a highly-responsive travel agent powered by Groq AI, drastically reducing response latency while maintaining precise domain-specific context for personalized itinerary planning.
-
-- **[EcoMart24](https://github.com/Pawan028/EcoMart24)**
-  - **The Problem:** Typical full-stack e-commerce experiences struggle with real-time customer support gaps and convoluted dispatch schemas.
-  - **The Solution:** Architected a robust MERN-stack marketplace featuring an embedded AI chatbot to handle support queries proactively, seamlessly integrated with a custom internal delivery logistics framework.
-
----
-
 ### 💼 Selected Freelance Work
 
 - **AI Visibility SaaS (Ongoing)** 
@@ -65,6 +49,22 @@ I specialize in architecting end-to-end systems that power high-performance inte
 - **[Mangalam (B2B/B2C Marketplace)](https://www.mangalamhub.online/)**
   - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
   - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved Core Web Vitals and facilitated seamless B2B transactions.
+    
+---
+
+### 🌟 Featured Personal Projects
+
+- **[SmartHireGenAI](https://smarthiregenai.streamlit.app/)** 
+  - **The Problem:** Modern Applicant Tracking Systems (ATS) ruthlessly filter talented candidates without providing actionable feedback.
+  - **The Solution:** Built an intelligent recruitment wrapper leveraging GenAI (Google Gemini) that instantly evaluates resumes against job descriptions, suggesting critical improvements to map directly to employer needs.
+  
+- **[AncyChatBot](https://ancychatbot.streamlit.app/)** 
+  - **The Problem:** Generic AI chatbots lose context and hallucinate heavily when acting as niche travel guides.
+  - **The Solution:** Developed a highly-responsive travel agent powered by Groq AI, drastically reducing response latency while maintaining precise domain-specific context for personalized itinerary planning.
+
+- **[EcoMart24](https://ecomart24.vercel.app/)**
+  - **The Problem:** Typical full-stack e-commerce experiences struggle with real-time customer support gaps and convoluted dispatch schemas.
+  - **The Solution:** Architected a robust MERN-stack marketplace featuring an embedded AI chatbot to handle support queries proactively, seamlessly integrated with a custom internal delivery logistics framework.
 
 ---
 
