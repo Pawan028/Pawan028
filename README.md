@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pawan028)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanya28@gmail.com)
 
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -61,23 +63,14 @@ I specialize in architecting end-to-end systems that power high-performance inte
   - **The Problem:** Complex research workflows require hours of manual multi-step querying, reading, and synthesizing across hundreds of tabs.
   - **The Solution:** Designed an autonomous desktop assistant using agentic LLM workflows capable of breaking down vague goals into executable search tasks, reasoning over raw HTML results, and compiling structured reports automatically.
 
-- **Mangalam (B2B/B2C Marketplace)**
+- **[Mangalam (B2B/B2C Marketplace)](https://www.mangalamhub.online/)**
   - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
   - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved Core Web Vitals and facilitated seamless B2B transactions.
-**[Mangalam](https://www.mangalamhub.online/)**
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pawan028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan028&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan028&layout=donut&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-</div>
