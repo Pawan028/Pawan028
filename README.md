@@ -1,16 +1,83 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**Pawan028/Pawan028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Pawan Yadav 👋
+### AI Systems Engineer | Scaling Intelligence at the Edge and Core
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Systems;Optimizing+High-Performance+LLMs;Full-Stack+GenAI+Solutions;Automating+End-to-End+Pipelines" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pawan028)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanya28@gmail.com)
+
+---
+
+### 🚀 About Me
+
+I specialize in architecting end-to-end systems that power high-performance intelligence. From fine-tuning models to building the scalable infrastructure they run on, I bridge the gap between complex AI research and production-ready applications.
+
+- 🔭 I’m currently working on enhancing **SmartHireGenAI** for enterprise-scale hiring and driving the core architecture for a stealth **AI Visibility SaaS**.
+- 🌱 I’m diving deep into **Low-Latency Inference**, **Agentic Workflows**, and **Distributed System Design**.
+- 💬 Ask me about **Next.js, Python, or integrating Large Language Models (LLMs)**.
+- ⚡ Fun fact: I believe the best AI systems are invisible—they just work natively in the background.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **AI/ML** | ![Generative AI](https://img.shields.io/badge/GenAI-000000?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white)|
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & Infra**| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+
+---
+
+### 🌟 Featured Personal Projects
+
+- **[SmartHireGenAI](https://github.com/Pawan028/SmartHireGenAI)** 
+  - **The Problem:** Modern Applicant Tracking Systems (ATS) ruthlessly filter talented candidates without providing actionable feedback.
+  - **The Solution:** Built an intelligent recruitment wrapper leveraging GenAI (Google Gemini) that instantly evaluates resumes against job descriptions, suggesting critical improvements to map directly to employer needs.
+  
+- **[AncyChatBot](https://github.com/Pawan028/AncyChatBot)** 
+  - **The Problem:** Generic AI chatbots lose context and hallucinate heavily when acting as niche travel guides.
+  - **The Solution:** Developed a highly-responsive travel agent powered by Groq AI, drastically reducing response latency while maintaining precise domain-specific context for personalized itinerary planning.
+
+- **[EcoMart24](https://github.com/Pawan028/EcoMart24)**
+  - **The Problem:** Typical full-stack e-commerce experiences struggle with real-time customer support gaps and convoluted dispatch schemas.
+  - **The Solution:** Architected a robust MERN-stack marketplace featuring an embedded AI chatbot to handle support queries proactively, seamlessly integrated with a custom internal delivery logistics framework.
+
+---
+
+### 💼 Selected Freelance Work
+
+- **AI Visibility SaaS (Ongoing)** 
+  - **The Problem:** Businesses lack deep, actionable insights into how LLMs and search engines rank their proprietary data and workflows. 
+  - **The Solution:** Currently engineering the core ML analytics pipelines to dynamically track, score, and optimize organic search presence and overall "AI visibility" at an enterprise scale.
+
+- **Agentic Web Search Desktop Assistant**
+  - **The Problem:** Complex research workflows require hours of manual multi-step querying, reading, and synthesizing across hundreds of tabs.
+  - **The Solution:** Designed an autonomous desktop assistant using agentic LLM workflows capable of breaking down vague goals into executable search tasks, reasoning over raw HTML results, and compiling structured reports automatically.
+
+- **Mangalam (B2B/B2C Marketplace)**
+  - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
+  - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved Core Web Vitals and facilitated seamless B2B transactions.
+**[Mangalam](https://www.mangalamhub.online/)**
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pawan028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan028&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+</div>
