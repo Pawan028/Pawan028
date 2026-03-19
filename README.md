@@ -38,10 +38,6 @@ I specialize in architecting end-to-end systems that power high-performance inte
 
 ### 💼 Selected Freelance Work
 
-- **AI Visibility SaaS** 
-  - **The Problem:** Businesses lack deep, actionable insights into how LLMs and search engines rank their proprietary data. 
-  - **The Solution:** Architected a platform using Python and LangGraph, automating SEO workflows for 1,000+ daily events and generating a 35% increase in organic traffic.
-
 - **Agentic Web Search Desktop Assistant**
   - **The Problem:** Complex research workflows require hours of manual multi-step querying, reading, and synthesizing across hundreds of tabs.
   - **The Solution:** Optimized RAG retrieval pipelines by implementing GraphRAG and Neo4j, reducing system latency by 40% and increasing query accuracy by 22% for complex multi-step data retrieval.
