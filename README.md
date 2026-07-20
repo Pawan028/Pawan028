@@ -30,25 +30,33 @@ I specialize in architecting end-to-end systems that power high-performance inte
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **AI Systems** | ![Generative AI](https://img.shields.io/badge/GenAI-000000?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat) ![GraphRAG](https://img.shields.io/badge/GraphRAG-D14836?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-232F3E?style=flat) ![LiteLLM](https://img.shields.io/badge/LiteLLM-2E8B57?style=flat) |
+| **AI & Automation** | ![Generative AI](https://img.shields.io/badge/GenAI-000000?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat) ![GraphRAG](https://img.shields.io/badge/GraphRAG-D14836?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-232F3E?style=flat) ![LiteLLM](https://img.shields.io/badge/LiteLLM-2E8B57?style=flat) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
 | **Data Infra** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
 | **Full-Stack** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
 
 ---
 
-### 💼 Selected Freelance Work
+### 🤖 Freelance Work (AI & Automation)
+
+- **Autonomous AI Voice Receptionist & Lead Qualifier**
+  - **The Problem:** A real estate client was losing 40% of inbound leads due to missed after-hours calls and slow, manual follow-up times.
+  - **The Solution:** Developed an ultra-low latency conversational voice AI utilizing the OpenAI Realtime API and **n8n**. The agent dynamically answers calls, qualifies leads using custom business logic, checks live calendar availability, and books appointments directly into the CRM, driving a 35% increase in lead conversion.
+
+- **LLM-Powered Intelligent Document Processing (IDP)**
+  - **The Problem:** A logistics firm spent 100+ manual hours weekly extracting data from unformatted, varied vendor invoices and unstructured PDFs.
+  - **The Solution:** Engineered a highly robust ETL pipeline using **n8n** and Vision LLMs. The system automatically ingests email attachments, accurately parses unstructured line-item data, flags cost anomalies, and pushes validated payloads directly into their ERP system, cutting processing time by 95%.
+
+- **Enterprise Event-Driven Automation Mesh & AI Triage**
+  - **The Problem:** A multinational client suffered from severe data fragmentation across Salesforce, Jira, and Slack, leading to a massive backlog in incident resolution.
+  - **The Solution:** Architected a highly resilient, asynchronous automation mesh using **n8n** and webhooks to synchronize states across all platforms. Integrated a LangGraph supervisor agent to autonomously triage, summarize, and route complex incidents, slashing Mean Time To Resolution (MTTR) by 75%.
+
+---
+
+### 🌟 Personal Projects (AI & Automation)
 
 - **Agentic Web Search Desktop Assistant**
   - **The Problem:** Complex research workflows require hours of manual multi-step querying, reading, and synthesizing across hundreds of tabs.
   - **The Solution:** Optimized RAG retrieval pipelines by implementing GraphRAG and Neo4j, reducing system latency by 40% and increasing query accuracy by 22% for complex multi-step data retrieval.
-
-- **[Mangalam (B2B/B2C Marketplace)](https://www.mangalamhub.online/)**
-  - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
-  - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved frontend load times and facilitated seamless B2B transactions.
-    
----
-
-### 🌟 Featured Personal Projects
 
 - **[SmartHireGenAI](https://smarthiregenai.streamlit.app/)** 
   - **The Problem:** Modern Applicant Tracking Systems (ATS) ruthlessly filter talented candidates without providing actionable feedback.
@@ -57,6 +65,14 @@ I specialize in architecting end-to-end systems that power high-performance inte
 - **[AncyChatBot](https://ancychatbot.streamlit.app/)** 
   - **The Problem:** Generic AI chatbots lose context and hallucinate heavily when acting as niche travel guides.
   - **The Solution:** Developed a highly-responsive travel agent powered by Groq AI, delivering personalized, real-time itinerary insights with drastically reduced response latency.
+
+---
+
+### 🌐 Full-Stack Web Projects
+
+- **[Mangalam (B2B/B2C Marketplace)](https://www.mangalamhub.online/)** 🏷️ *[Freelance Project]*
+  - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
+  - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved frontend load times and facilitated seamless B2B transactions.
 
 - **[EcoMart24](https://ecomart24.vercel.app/)**
   - **The Problem:** Typical full-stack e-commerce experiences struggle with real-time customer support gaps and convoluted dispatch schemas.
