@@ -70,10 +70,6 @@ I specialize in architecting end-to-end systems that power high-performance inte
 
 ### 🌐 Full-Stack Web Projects
 
-- **[Mangalam (B2B/B2C Marketplace)](https://www.mangalamhub.online/)** 🏷️ *[Freelance Project]*
-  - **The Problem:** The client needed a highly scalable, SEO-optimized web property capable of handling complex cart states and instant routing natively.
-  - **The Solution:** Built a robust, full-stack Next.js architecture leveraging Tailwind CSS for modular UI. This drastically improved frontend load times and facilitated seamless B2B transactions.
-
 - **[EcoMart24](https://ecomart24.vercel.app/)**
   - **The Problem:** Typical full-stack e-commerce experiences struggle with real-time customer support gaps and convoluted dispatch schemas.
   - **The Solution:** Architected a robust MERN-stack marketplace featuring an embedded AI chatbot to handle support queries proactively, seamlessly integrated with a custom internal delivery logistics framework.
